@@ -1,6 +1,6 @@
-# MCP-DS-Client
+# MCP-Client-For-Weather-Example
 
-MCP-DS-Client 是一个基于 MCP（Modular Communication Protocol）的客户端和服务器项目，支持通过 LLM 的大语言模型与工具交互，并提供天气查询功能。
+MCP-Client-For-Weather-Example 是一个基于 MCP（Modular Communication Protocol）的客户端和服务器项目，支持通过 LLM 的大语言模型与工具交互，并提供天气查询功能。
 
 ## 功能特性
 
