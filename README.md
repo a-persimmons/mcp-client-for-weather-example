@@ -44,10 +44,8 @@ source .venv/bin/activate
 
 ```env
 OPENAI_API_KEY=你的OpenAI API密钥
-# <你的OpenAI API基础URL>
-BASE_URL=https://api.siliconflow.cn/v1
+BASE_URL=https://api.siliconflow.cn/v1 # <你的OpenAI API基础URL>
 MODEL=使用的模型名称
-# 
 WEATHER_API_KEY=你的OpenWeather API密钥
 ```
 ## 使用方法
