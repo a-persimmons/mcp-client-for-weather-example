@@ -116,6 +116,13 @@ python-dotenv - 环境变量加载工具
 - [MCP 终极指南](https://guangzhengli.com/blog/zh/model-context-protocol)
 - [一文看懂：MCP(大模型上下文协议)](https://zhuanlan.zhihu.com/p/27327515233)
 - [MCP 传输](https://spec.modelcontextprotocol.io/specification/2025-03-26/basic/transports/)
+- [Understanding Model Context Protocol (MCP)](https://freedium.cfd/predict/understanding-model-context-protocol-mcp-771f1cfb3c0a)
+- [A Deep Dive Into MCP and the Future of AI Tooling](https://a16z.com/a-deep-dive-into-mcp-and-the-future-of-ai-tooling/)
+- [Agentic Design Patterns Part 1](https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/)
+- [Agentic Design Patterns Part 2: Reflection](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-2-reflection/?ref=dl-staging-website.ghost.io)
+- [Agentic Design Patterns Part 3, Tool Use](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-3-tool-use/?ref=dl-staging-website.ghost.io)
+- [Agentic Design Patterns Part 4: Planning](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-4-planning/?ref=dl-staging-website.ghost.io)
+- [Agentic Design Patterns Part 5: Multi-Agent Collaboration](https://www.deeplearning.ai/the-batch/agentic-design-patterns-part-5-multi-agent-collaboration/?ref=dl-staging-website.ghost.io)
 
 ## MCP Servers
 - https://mcp.so/
