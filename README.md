@@ -107,3 +107,9 @@ python-dotenv - 环境变量加载工具
 
 ## 感谢
 - 【[MCP 实战：调用DeepSeek实现MCP客户端和服务端快速搭建](https://deepseek.csdn.net/67e383ff45a25f3de59f7bb0.html)】
+
+## 学习资源
+- [Bilibili 视频：MCP 实战](https://www.bilibili.com/video/BV1NRQxYXEuc)
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114169374312956&bvid=BV1NRQxYXEuc&cid=28887614464&p=1" 
+scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500"></iframe>
