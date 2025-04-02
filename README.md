@@ -110,6 +110,17 @@ python-dotenv - 环境变量加载工具
 
 ## 学习资源
 - [Bilibili 视频：MCP 实战](https://www.bilibili.com/video/BV1NRQxYXEuc)
+- [MCP vs. API Explained](https://news.ycombinator.com/item?id=43302297)
+- [从零开始教你打造一个MCP客户端](https://zhuanlan.zhihu.com/p/30869685315)
+- [mcp-client-demo](https://github.com/kaichen/mcp-client-demo)
+- [MCP 终极指南](https://guangzhengli.com/blog/zh/model-context-protocol)
+- [一文看懂：MCP(大模型上下文协议)](https://zhuanlan.zhihu.com/p/27327515233)
+- [MCP 传输](https://spec.modelcontextprotocol.io/specification/2025-03-26/basic/transports/)
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114169374312956&bvid=BV1NRQxYXEuc&cid=28887614464&p=1" 
-scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500"></iframe>
+## MCP Servers
+- https://mcp.so/
+- https://glama.ai/mcp/servers
+- https://www.pulsemcp.com/
+- https://smithery.ai/
+- https://mcp.composio.dev
+- https://hub.continue.dev/explore/mcp
