@@ -11,4 +11,4 @@ wheels/
 .idea
 .env.local
 .python-version
-nv.lock
+uv.lock
